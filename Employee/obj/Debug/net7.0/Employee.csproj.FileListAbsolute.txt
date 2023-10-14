@@ -1,0 +1,15 @@
+/home/ramya/Documents/hello/Employee/bin/Debug/net7.0/Employee
+/home/ramya/Documents/hello/Employee/bin/Debug/net7.0/Employee.deps.json
+/home/ramya/Documents/hello/Employee/bin/Debug/net7.0/Employee.runtimeconfig.json
+/home/ramya/Documents/hello/Employee/bin/Debug/net7.0/Employee.dll
+/home/ramya/Documents/hello/Employee/bin/Debug/net7.0/Employee.pdb
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.csproj.AssemblyReference.cache
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.AssemblyInfoInputs.cache
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.AssemblyInfo.cs
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.csproj.CoreCompileInputs.cache
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.dll
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/refint/Employee.dll
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.pdb
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/Employee.genruntimeconfig.cache
+/home/ramya/Documents/hello/Employee/obj/Debug/net7.0/ref/Employee.dll
